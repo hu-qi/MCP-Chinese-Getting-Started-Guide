@@ -1,0 +1,18 @@
+{
+  "name": "mcp-chinese-getting-started-guide",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "mintlify dev"
+  },
+  "devDependencies": {
+    "mintlify": "^4.0.488"
+  },
+  "keywords": [
+    "MCP",
+    "MCP教程",
+    "MCP中文教程"
+  ],
+  "author": "cursor",
+  "license": "MIT",
+  "description": "Model Context Protocol(MCP) 编程从入门到放弃"
+}
