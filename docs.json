@@ -233,6 +233,11 @@
     },
     "indexing": "navigable"
   },
+  "integrations": {
+    "gtm": {
+        "tagId": "GTM-WFG35VLH"
+      }
+  },
   "footer": {
     "socials": {
       "github": "https://github.com/hu-qi/MCP-Chinese-Getting-Started-Guide"
